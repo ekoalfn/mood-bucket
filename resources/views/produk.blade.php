@@ -51,7 +51,7 @@
 
                 <div class="pt-6 fade-in" style="animation-delay: 0.3s">
                     <a
-                        href="https://wa.me/+628123456789?text=Halo, saya ingin pesan {{ $product->name }}"
+                        href="https://wa.me/+6285702634706?text=Halo, saya ingin pesan {{ $product->name }}"
                         target="_blank"
                         class="w-full md:w-auto flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gradient-to-r from-pink-500 to-pink-600 hover:from-pink-600 hover:to-pink-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
                     >
